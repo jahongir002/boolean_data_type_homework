@@ -1,4 +1,5 @@
 def main(a,b):
+
     """
     Check the logic "they are equal"
     Args:
@@ -7,5 +8,7 @@ def main(a,b):
     Returns:
         bool
     """
+
     # Write your code here
-    return a!=b
+    return a==b
+print(main(4,5))
