@@ -8,5 +8,5 @@ def main(a):
     """
     # Write your code here
     b=1
-    return a>b
+    return a<b
 print(main(5))
