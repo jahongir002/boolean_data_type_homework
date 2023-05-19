@@ -7,8 +7,6 @@ def main(a):
         bool
     """
     # Write your code here
-    a=a
     b=2
-    c=a//b
-    return c<=0
+    return a/b>0
 print(main(4))
