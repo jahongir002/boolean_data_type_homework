@@ -8,5 +8,7 @@ def main(a):
     """
     # Write your code here
     b=2
-    return a/b>0
-print(main(4))
+    a=a
+    c=a//b
+    return c<0
+print(main(5))
