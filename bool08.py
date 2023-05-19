@@ -8,5 +8,5 @@ def main(a):
     """
     # Write your code here
     b=-5
-    return a!=b
-print(main(4))
+    return a>b
+print(main(0))
