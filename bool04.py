@@ -7,6 +7,5 @@ def main(a):
         bool
     """
     # Write your code here
-    b=10
-    return a>=b
+    return a<0
 print(main(6))
