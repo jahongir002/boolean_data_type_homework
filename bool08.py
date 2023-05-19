@@ -7,5 +7,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return a!=-5
+    b=-5
+    return a>b
 print(main(4))
