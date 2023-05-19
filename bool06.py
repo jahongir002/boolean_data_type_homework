@@ -10,5 +10,5 @@ def main(a):
     b=2
     a=a
     c=a//b
-    return c<0
-print(main(5))
+    return c>0
+print(main(6))
